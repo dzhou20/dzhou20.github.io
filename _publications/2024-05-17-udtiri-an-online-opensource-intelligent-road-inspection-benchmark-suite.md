@@ -2,7 +2,7 @@
 title: "UDTIRI: An Online Open-Source Intelligent Road Inspection Benchmark Suite"
 collection: publications
 permalink: /publication/2024-05-17-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: '/'
 date: 2024-05-17
 venue: 'IEEE Transactions on Intelligent Transportation Systems'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
