@@ -2,7 +2,7 @@
 title: "Road Environment Perception for Safe and Comfortable Driving"
 collection: publications
 permalink: /publication/2023-10-07-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Book Chapter'
 date: 2023-10-07
 venue: 'Autonomous Driving Perception'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
