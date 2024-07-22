@@ -17,17 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Dacheng Zhou (周大成), a fourth-year undergraduate student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), majoring in Automation. I was fortunately supervised by Prof.Rui Fan during my undergraduate study.
+I’m Dacheng Zhou (周大成), a fourth-year undergraduate student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), majoring in Automation. I was fortunately supervised by [Prof.Rui Fan](https://www.ruirangerfan.com/) during my undergraduate study.
 
 My primary research interest includes computer vision, robot perception, and biomedical signal processing.
 
 
 # 🔥 News
-- *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University.  
+- *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University!  
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -42,12 +42,12 @@ My primary research interest includes computer vision, robot perception, and bio
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2024.04* Finland National Scholarship
+- *2024.04* Finland National Scholarship (Full scholarship for Master's studies, funded by Finland Ministry of Education and Culture)
 - *2023.10* Outstanding Undergraduate Scholarship
 - *2022.10* Outstanding Undergraduate Scholarship
 - *2022.09* Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2022.04* First Prize, Tongji University Mathematic Modeling Competition
-- "2019.11* First Prize, Shanghai High School Chemistry Competition
+- *2019.11* First Prize, Shanghai High School Chemistry Competition
 - *2019.09* Provincial Second Prize, Chinese Chemistry Olympiad (CChO)
 - *2018.09* Provincial Third Prize, Chinese Chemistry Olympiad (CChO)
 
