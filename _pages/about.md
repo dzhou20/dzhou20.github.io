@@ -17,14 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I’m Dacheng Zhou (周大成), a fourth-year undergraduate student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), majoring in Automation. I was fortunately supervised by Prof.Rui Fan during my undergraduate study.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My primary research interest includes computer vision, robot perception, and biomedical signal processing.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University.  
 
 # 📝 Publications 
 
@@ -43,11 +42,17 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2023.10* Tongji University Outstanding Student Scholarship. 
-- *2022.10* Tongji University Outstanding Student Scholarship. 
+- *2024.04* Finland National Scholarship
+- *2023.10* Outstanding Undergraduate Scholarship
+- *2022.10* Outstanding Undergraduate Scholarship
+- *2022.09* Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- *2022.04* First Prize, Tongji University Mathematic Modeling Competition
+- "2019.11* First Prize, Shanghai High School Chemistry Competition
+- *2019.09* Provincial Second Prize, Chinese Chemistry Olympiad (CChO)
+- *2018.09* Provincial Third Prize, Chinese Chemistry Olympiad (CChO)
 
 # 📖 Educations
-- *2020.09 - 2024.06*, Bachelor of Engineering in Automation, College of Electronic and Information Engineering, Tongji University, Shanghai. 
+- *2020.09 - 2024.06*, B.Eng in Automation, College of Electronic and Information Engineering, Tongji University, Shanghai. 
 - *2017.09 - 2020.06*, Jianping High School, Shanghai. 
 
 # 💬 Invited Talks
@@ -55,4 +60,5 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.03*, /.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2023.07 - 2023.10*, [Bosch](https://www.bosch.com/), Cross-Domain Computing Solutions (XC), China.
+- *2023.07 - 2023.10*, [Bosch](https://www.bosch.com/), Cross-Domain Computing Solutions (XC), Shanghai.
+- *2023.02 - 2023.06*, [Lean Enterprise China (LEC)](http://www.leanchina.net.cn/), Lean Healthcare Group, Shanghai.
