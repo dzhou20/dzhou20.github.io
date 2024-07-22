@@ -26,7 +26,7 @@ My primary research interest includes computer vision, robot perception, and bio
 - *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University!  
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -38,8 +38,10 @@ My primary research interest includes computer vision, robot perception, and bio
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
+- [Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130), Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen, Rui Fan **IEEE T-ITS**
+- [UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11), Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan **Chapter**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2024.04* Finland National Scholarship (Full scholarship for Master's studies, funded by Finland Ministry of Education and Culture)
