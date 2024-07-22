@@ -39,8 +39,8 @@ My primary research interest includes computer vision, robot perception, and bio
 </div>
 </div>
 -->
-<div class="badge">IEEE T-ITS</div>
-- [Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130), Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen, Rui Fan **IEEE T-ITS**
+
+- <div class="badge">IEEE T-ITS</div>[Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130), Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen, Rui Fan **IEEE T-ITS**
 - [UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11), Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan **Chapter**
 
 
