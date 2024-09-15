@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Dacheng Zhou (周大成), a fourth-year undergraduate student at the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/), majoring in Automation. I was fortunately supervised by [Prof.Rui Fan](https://www.ruirangerfan.com/) during my undergraduate study.
+I’m Dacheng Zhou (周大成), a first-year master student at the [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering), [Aalto University](https://www.aalto.fi/en), majoring in Control, Robotics and Autonomous System. I received my B.Eng degree from [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in 2024.06. I was fortunately supervised by [Prof.Rui Fan](https://www.ruirangerfan.com/) during my undergraduate study.
 
 My primary research interest includes computer vision, robot perception, and biomedical signal processing.
 
@@ -55,13 +55,13 @@ My primary research interest includes computer vision, robot perception, and bio
 - *2018.09* Provincial Third Prize, Chinese Chemistry Olympiad (CChO)
 
 # 📖 Educations
+- *2024.09 - 2026.06(Expected)* M.Sc(Tech) in Automation and Electrical Engineering (Major: Control, Robotics and Autonomous System), School of Electrical Engineering, Aalto University, Espoo.
 - *2020.09 - 2024.06*, B.Eng in Automation, College of Electronic and Information Engineering, Tongji University, Shanghai. 
 - *2017.09 - 2020.06*, Jianping High School, Shanghai. 
 
 # 💬 Invited Talks
 - *2021.06*, /. 
-- *2021.03*, /.  \| [\[video\]](https://github.com/)
-
+  
 # 💻 Internships
 - *2023.07 - 2023.10*, [Bosch](https://www.bosch.com/), Cross-Domain Computing Solutions (XC), Shanghai.
 - *2023.02 - 2023.06*, [Lean Enterprise China (LEC)](http://www.leanchina.net.cn/), Lean Healthcare Group, Shanghai.
