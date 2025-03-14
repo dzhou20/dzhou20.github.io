@@ -23,6 +23,7 @@ My primary research interest includes computer vision, robot perception, and bio
 
 
 # 🔥 News
+- *2025.03*: &nbsp; I will be going to EPFL for an exchange program in Fall 2025!
 - *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University!  
 
 # 📝 Publications 
@@ -55,6 +56,7 @@ My primary research interest includes computer vision, robot perception, and bio
 - *2018.09* Provincial Third Prize, Chinese Chemistry Olympiad (CChO)
 
 # 📖 Educations
+- *2025.09 - 2026.01(Expected)* Exchange Student, EPFL, Lausanne.
 - *2024.09 - 2026.06(Expected)* M.Sc(Tech) in Automation and Electrical Engineering (Major: Control, Robotics and Autonomous System), School of Electrical Engineering, Aalto University, Espoo.
 - *2020.09 - 2024.06*, B.Eng in Automation, College of Electronic and Information Engineering, Tongji University, Shanghai. 
 - *2017.09 - 2020.06*, Jianping High School, Shanghai. 
@@ -63,5 +65,6 @@ My primary research interest includes computer vision, robot perception, and bio
 - *2021.06*, /. 
   
 # 💻 Internships
+- *2024.04 - 2024.08*, [Huber&Ranner](https://huber-ranner.com/en/), Software R&D, Suzhou.
 - *2023.07 - 2023.10*, [Bosch](https://www.bosch.com/), Cross-Domain Computing Solutions (XC), Shanghai.
 - *2023.02 - 2023.06*, [Lean Enterprise China (LEC)](http://www.leanchina.net.cn/), Lean Healthcare Group, Shanghai.
