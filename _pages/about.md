@@ -27,22 +27,24 @@ My primary research interest includes computer vision, robot perception, and bio
 - *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University!  
 
 # 📝 Publications 
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ITS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**  
+**Authors:** Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng  
+**Publication date:** 2024/9/13  
+*IEEE Sensors Journal*
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
--->
 
-- [Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130), Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan, **IEEE T-ITS**
-- [UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11), Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan
+- [Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130)  
+  Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan  
+  *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
+- [UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11)  
+  Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan  
+  *Lecture Notes in Electrical Engineering, Springer Nature*
 
 
 # 🎖 Honors and Awards
