@@ -49,13 +49,15 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
 - 2024, 2025, 2026: Finland National Scholarship (Full Funding and Highest Scholarship, by Finland Ministry of Education and Culture)
 - 2021, 2022, 2023: Outstanding Undergraduate Scholarship (3 consecutive years)
 
+
 - 2022: Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2018, 2019: Provincial Prize, Chinese Chemistry Olympiad (CChO)
 
 # 💬 Invited Talks
-- *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, invited for the **Next by NEXT**.
+- *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, held by **Next by NEXT**.
 
 # 🧩 Miscellaneous
 My favorite game is **GeoGuessr**🌍. My favorite singer is **Cheer Chen**🎸.
+
 
 I enjoy a wide range of sports, including hiking, soccer, rock climbing, and squash.

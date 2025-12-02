@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Dacheng Zhou"
   avatar           : "images/avatar_switzerland.jpg"
-  bio              : "Graduate Student in Robotics"
+  bio              : ""
   location         : "Lausanne, Switzerland 🇨🇭"
   employer         :
   pubmed           : 
