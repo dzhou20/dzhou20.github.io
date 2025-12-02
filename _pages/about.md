@@ -17,9 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Dacheng Zhou (周大成), a first-year master student at the [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering), [Aalto University](https://www.aalto.fi/en), majoring in Control, Robotics and Autonomous System. I received my B.Eng degree from [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in 2024.06. I was fortunately supervised by [Prof.Rui Fan](https://www.ruirangerfan.com/) during my undergraduate study.
+I’m **Dacheng Zhou (周大成)**, currently a visiting research student at **EPFL**, advised by [**Prof. Josie Hughes**](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at the [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering), [Aalto University](https://www.aalto.fi/en), majoring in **Robotics**.
 
-My primary research interest includes computer vision, robot perception, and biomedical signal processing.
+Before that, I received my B.Eng degree from the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
+
+My research interests include **computer vision**, **robot perception**, **robot manipulation**, and **biomedical signal processing**. 
+
+Currently, my work focuses on **robot tactile sensing** and **reinforcement-learning-based manipulation**.
+
 
 
 # 🔥 News
