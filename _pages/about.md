@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m **Dacheng Zhou (周大成)**, currently a visiting research student at **EPFL**, advised by [**Prof. Josie Hughes**](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at the [School of Electrical Engineering](https://www.aalto.fi/en/school-of-electrical-engineering), [Aalto University](https://www.aalto.fi/en), majoring in **Robotics**.
+I’m **Dacheng Zhou (周大成)**, currently a visiting research student at **EPFL**, advised by [**Prof. Josie Hughes**](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at [Aalto University](https://www.aalto.fi/en), majoring in **Robotics**.
 
 Before that, I received my B.Eng degree from the [College of Electronic and Information Engineering](https://see.tongji.edu.cn/), [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
 
@@ -27,10 +27,6 @@ Currently, my work focuses on **robot tactile sensing** and **reinforcement-lear
 
 
 
-# 🔥 News
-- *2025.03*: &nbsp; I will be going to EPFL for an exchange program in Fall 2025!
-- *2024.06*: &nbsp;🎉🎉 I get my Bachelor's degree from Tongji University!  
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field" width="100%"></div></div>
@@ -38,7 +34,6 @@ Currently, my work focuses on **robot tactile sensing** and **reinforcement-lear
 
 **[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**  
 **Authors:** Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng  
-**Publication date:** 2024/9/13  
 *IEEE Sensors Journal*
 
 </div>
@@ -54,24 +49,19 @@ Currently, my work focuses on **robot tactile sensing** and **reinforcement-lear
 
 # 🎖 Honors and Awards
 - *2024.04* Finland National Scholarship (Full scholarship for Master's studies, funded by Finland Ministry of Education and Culture)
-- *2023.10* Outstanding Undergraduate Scholarship
-- *2022.10* Outstanding Undergraduate Scholarship
+- *2021–2023* Outstanding Undergraduate Scholarship (3 consecutive years)
 - *2022.09* Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - *2022.04* First Prize, Tongji University Mathematic Modeling Competition
+
 - *2019.11* First Prize, Shanghai High School Chemistry Competition
 - *2019.09* Provincial Second Prize, Chinese Chemistry Olympiad (CChO)
 - *2018.09* Provincial Third Prize, Chinese Chemistry Olympiad (CChO)
 
-# 📖 Educations
-- *2025.09 - 2026.01(Expected)* Exchange Student, EPFL, Lausanne.
-- *2024.09 - 2026.06(Expected)* M.Sc(Tech) in Automation and Electrical Engineering (Major: Control, Robotics and Autonomous System), School of Electrical Engineering, Aalto University, Espoo.
-- *2020.09 - 2024.06*, B.Eng in Automation, College of Electronic and Information Engineering, Tongji University, Shanghai. 
-- *2017.09 - 2020.06*, Jianping High School, Shanghai. 
-
 # 💬 Invited Talks
-- *2021.06*, /. 
+- *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, invited for the **Next by NEXT**.
+
   
 # 💻 Internships
 - *2024.04 - 2024.08*, [Huber&Ranner](https://huber-ranner.com/en/), Software R&D, Suzhou.
 - *2023.07 - 2023.10*, [Bosch](https://www.bosch.com/), Cross-Domain Computing Solutions (XC), Shanghai.
-- *2023.02 - 2023.06*, [Lean Enterprise China (LEC)](http://www.leanchina.net.cn/), Lean Healthcare Group, Shanghai.
+- *2022.02 - 2023.06*, [Lean Enterprise China (LEC)](http://www.leanchina.net.cn/), Lean Healthcare Group, Shanghai.
