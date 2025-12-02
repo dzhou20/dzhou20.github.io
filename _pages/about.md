@@ -23,7 +23,9 @@ Before that, I received my B.Eng degree in Automation from [Tongji University](h
 
 My research interests include **computer vision**, **robot perception**, **robot manipulation**, and **biomedical signal processing**. 
 
-Currently, my work focuses on **robot tactile sensing** and **reinforcement-learning-based manipulation**.
+Currently, my work focuses on **robot tactile sensing** and **RL-based manipulation**.
+
+If you are interested in connecting with me, please feel free to reach out.
 
 
 
@@ -58,6 +60,6 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
 - *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, invited for the **Next by NEXT**.
 
 # 🧩 Miscellaneous
-🌍 My favorite game is **GeoGuessr**.
-🎸 My favorite singer is **Cheer Chen**.
-⚽ I enjoy a wide range of sports, including hiking, soccer, rock climbing, and squash.
+My favorite game is **GeoGuessr**🌍. My favorite singer is **Cheer Chen**🎸.
+
+I enjoy a wide range of sports, including hiking, soccer, rock climbing, and squash.
