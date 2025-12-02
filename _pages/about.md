@@ -23,7 +23,7 @@ My research interests include computer vision, robot perception, robot manipulat
 
 If you are interested in connecting with me, please feel free to reach out.
 
-
+<br><br><br>
 
 # 📝 Publications 
 
@@ -44,6 +44,7 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
   Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan  
   *Autonomous Driving Perception: Fundamentals and Applications*
 
+<br><br><br>
 
 # 🎖 Honors and Awards
 - 2024, 2025, 2026: Finland National Scholarship (Full Funding and Highest Scholarship, by Finland Ministry of Education and Culture)
@@ -53,8 +54,12 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
 - 2022: Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2018, 2019: Provincial Prize, Chinese Chemistry Olympiad (CChO)
 
+<br><br><br>
+
 # 💬 Invited Talks
 - *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, held by **Next by NEXT**.
+
+<br><br><br>
 
 # 🧩 Miscellaneous
 My favorite game is **GeoGuessr**🌍. My favorite singer is **Cheer Chen**🎸.
