@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a visiting research student at EPFL, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at [Aalto University](https://www.aalto.fi/en), majoring in Robotics. Previously, I received my B.Eng degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
+I’m a visiting research student at EPFL, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at Aalto University, majoring in Robotics. Previously, I received my B.Eng degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
 
 My research interests include computer vision, robot perception, robot manipulation, and biomedical signal processing. Currently, my work focuses on **robot tactile sensing** and **RL-based manipulation**.
 
 If you are interested in connecting with me, please feel free to reach out.
 
-<br><br><br>
+<br>
 
 # 📝 Publications 
 
@@ -44,7 +44,7 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
   Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan  
   *Autonomous Driving Perception: Fundamentals and Applications*
 
-<br><br><br>
+<br>
 
 # 🎖 Honors and Awards
 - 2024, 2025, 2026: Finland National Scholarship (Full Funding and Highest Scholarship, by Finland Ministry of Education and Culture)
@@ -54,12 +54,12 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
 - 2022: Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2018, 2019: Provincial Prize, Chinese Chemistry Olympiad (CChO)
 
-<br><br><br>
+<br>
 
 # 💬 Invited Talks
 - *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, held by **Next by NEXT**.
 
-<br><br><br>
+<br>
 
 # 🧩 Miscellaneous
 My favorite game is **GeoGuessr**🌍. My favorite singer is **Cheer Chen**🎸.
