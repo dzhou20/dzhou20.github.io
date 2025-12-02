@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Dacheng Zhou"
-  avatar           : "images/sakura.jpg"
-  bio              : "Incoming Master student"
-  location         : "Shanghai, China"
+  avatar           : "images/avatar_switzerland.jpg"
+  bio              : "Graduate Student in Robotics"
+  location         : "🇨🇭 Lausanne, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0856rNUAAAAJ&hl=en"
