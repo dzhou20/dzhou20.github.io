@@ -17,17 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a visiting research student at EPFL, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am also a second-year Master’s student at Aalto University, majoring in Robotics. Previously, I received my B.Eng degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
+I’m a visiting research student at EPFL, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am also a second-year M.S. student at Aalto University, majoring in Robotics. Previously, I received my B.Eng degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
 
 My research interests include computer vision, robot perception, robot manipulation, and biomedical signal processing. Currently, my work focuses on **robot tactile sensing** and **RL-based manipulation**.
 
 If you are interested in connecting with me, please feel free to reach out.
 
+Email: dacheng.zhou [at] epfl.ch
+
 <br>
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**  
@@ -51,7 +53,7 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng
 - 2021, 2022, 2023: Outstanding Undergraduate Scholarship (3 consecutive years)
 
 
-- 2022: Third Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
+- 2022: Provincial Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)
 - 2018, 2019: Provincial Prize, Chinese Chemistry Olympiad (CChO)
 
 <br>
@@ -66,3 +68,5 @@ My favorite game is **GeoGuessr**🌍. My favorite singer is **Cheer Chen**🎸.
 
 
 I enjoy a wide range of sports, including hiking, soccer, rock climbing, and squash.
+
+<br><br><br>
