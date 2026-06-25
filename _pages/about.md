@@ -27,28 +27,6 @@ Email: dacheng.zhou [at] epfl.ch
 
 <br>
 
-# 🛠 Selected Projects
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <div class="badge">EPFL MICRO-507</div>
-      <video autoplay loop muted playsinline poster='images/projects/legged_robot_locomotion_poster.jpg' aria-label="Quadruped locomotion controller on uneven terrain in PyBullet">
-        <source src='images/projects/legged_robot_locomotion.mp4' type='video/mp4'>
-      </video>
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-
-**[Learning-based Control for Quadruped Locomotion](https://github.com/dzhou20/epfl-legged-robot-project-2025)**<br>
-EPFL Legged Robots course project, 2025<br>
-Implemented jumping with force-profile control and slope/stair/gap locomotion using Hopf CPGs and RL-based policy refinement in PyBullet.
-
-  </div>
-</div>
-
-<br>
-
 # 📝 Publications
 
 <div class='paper-box'>
@@ -95,6 +73,28 @@ Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Boc
 **[UDTIRI: An online open-source intelligent road inspection benchmark suite](https://ieeexplore.ieee.org/document/10534130)**<br>
 Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan<br>
 *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
+
+  </div>
+</div>
+
+<br>
+
+# 🛠 Selected Projects
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">EPFL MICRO-507</div>
+      <video autoplay loop muted playsinline poster='images/projects/legged_robot_locomotion_poster.jpg' aria-label="Quadruped locomotion controller walking up uneven terrain in PyBullet">
+        <source src='images/projects/legged_robot_locomotion.mp4' type='video/mp4'>
+      </video>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[Learning-based Control for Quadruped Locomotion](https://github.com/dzhou20/epfl-legged-robot-project-2025)**<br>
+EPFL Legged Robots course project, 2025<br>
+Implemented jumping with force-profile control and slope/stair/gap locomotion using Hopf CPGs and RL-based policy refinement in PyBullet.
 
   </div>
 </div>
