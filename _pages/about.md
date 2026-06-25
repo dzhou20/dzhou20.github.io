@@ -27,24 +27,19 @@ Email: dacheng.zhou [at] epfl.ch
 
 <br>
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Sensors Journal</div><img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. **[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**<br>
+   Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng<br>
+   *IEEE Sensors Journal*
 
-**[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**  
-Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng  
-*IEEE Sensors Journal*
+2. **[Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130)**<br>
+   Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan<br>
+   *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
 
-</div>
-</div>
-
-- [Road Environment Perception for Safe and Comfortable Driving](https://ieeexplore.ieee.org/document/10534130)  
-  Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan  
-  *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
-- [UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11)  
-  Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan  
-  *Autonomous Driving Perception: Fundamentals and Applications*
+3. **[UDTIRI: An online open-source intelligent road inspection benchmark suite](https://link.springer.com/chapter/10.1007/978-981-99-4287-9_11)**<br>
+   Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Bocus, Xingyi Zhu, Qijun Chen and Rui Fan<br>
+   *Autonomous Driving Perception: Fundamentals and Applications*
 
 <br>
 
