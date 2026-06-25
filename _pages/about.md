@@ -92,7 +92,7 @@ Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Sh
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[Learning-based Control for Quadruped Locomotion](https://github.com/dzhou20/epfl-legged-robot-project-2025)**<br>
+**[CPG + RL Control for Quadruped Locomotion](https://github.com/dzhou20/epfl-legged-robot-project-2025)**<br>
 EPFL Legged Robots course project, 2025<br>
 Implemented jumping with force-profile control and slope/stair/gap locomotion using Hopf CPGs and RL-based policy refinement in PyBullet.
 
