@@ -91,7 +91,7 @@ Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Sh
   <div class='paper-box-text' markdown="1">
 
 **[Spot Shoveling for Quadruped Loco-Manipulation](https://github.com/SaadIqbalEE/Shoveling-earth-with-the-Boston-Dynamics-Spot-robot)**<br>
-Semester Project (Aalto Robot Learning Group), 2025<br>
+Semester Project ([Aalto Robot Learning Group](https://rl.aalto.fi/)), 2025<br>
 Built a sim-to-real loco-manipulation prototype for Spot shoveling, combining Isaac Sim digging scenes, ROS2 locomotion and arm control, perception modules, and real Spot arm-trajectory execution.
 
   </div>
