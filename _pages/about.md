@@ -84,6 +84,22 @@ Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Sh
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
+      <div class="badge">Spot Loco-Manipulation</div>
+      <img src='images/projects/spot_shoveling_isaacsim.png' alt="Boston Dynamics Spot with a shovel in an Isaac Sim digging environment">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**[Spot Shoveling for Quadruped Loco-Manipulation](https://github.com/SaadIqbalEE/Shoveling-earth-with-the-Boston-Dynamics-Spot-robot)**<br>
+Boston Dynamics Spot shoveling project, 2025<br>
+Built a sim-to-real loco-manipulation prototype for Spot shoveling, combining Isaac Sim digging scenes, ROS2 locomotion and arm control, perception modules, and real Spot arm-trajectory execution.
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
       <div class="badge">EPFL MICRO-507</div>
       <video autoplay loop muted playsinline poster='images/projects/legged_robot_locomotion_poster.jpg' aria-label="Quadruped locomotion controller walking up uneven terrain in PyBullet">
         <source src='images/projects/legged_robot_locomotion.mp4' type='video/mp4'>
