@@ -223,6 +223,15 @@ body:hover .visually-hidden button {
     color: $instagram-color;
   }
 
+  .xiaohongshu-icon {
+    display: inline-block;
+    width: 1.28571429em;
+    height: 1em;
+    object-fit: contain;
+    vertical-align: -0.125em;
+    margin-right: 0.05em;
+  }
+
   .fa-lastfm,
   .fa-lastfm-square {
     color: $lastfm-color;

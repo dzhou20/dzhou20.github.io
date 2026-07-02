@@ -34,6 +34,9 @@
       {% if author.wechat %}
         <li><a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i> WeChat</a></li>
       {% endif %}
+      {% if author.xiaohongshu %}
+        <li><a href="{{ author.xiaohongshu }}" aria-label="Xiaohongshu QR code"><img src="/images/xiaohongshu.svg" class="xiaohongshu-icon" alt=""> Xiaohongshu</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -131,6 +134,9 @@
       {% endif %}
       {% if author.wechat %}
         <a href="{{ author.wechat }}"><i class="fab fa-fw fa-weixin" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.xiaohongshu %}
+        <a href="{{ author.xiaohongshu }}" aria-label="Xiaohongshu QR code"><img src="/images/xiaohongshu.svg" class="xiaohongshu-icon" alt=""></a>
       {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
