@@ -29,7 +29,7 @@ Email: dacheng.zhou [at] epfl.ch
 
 # 📝 Publications
 
-<div class='paper-box'>
+<div class='paper-box publication-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE Sensors Journal</div>
@@ -45,8 +45,8 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng<br>
   </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image paper-box-image--portrait'>
+<div class='paper-box publication-box'>
+  <div class='paper-box-image'>
     <div>
       <div class="badge">Book Chapter</div>
       <img src='images/publications/autonomous_driving_perception.webp' alt="Autonomous Driving Perception book cover">
@@ -61,7 +61,7 @@ Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Boc
   </div>
 </div>
 
-<div class='paper-box'>
+<div class='paper-box publication-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">IEEE T-ITS</div>
@@ -79,6 +79,7 @@ Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Sh
 
 <br>
 
+<!--
 # 🛠 Selected Projects
 
 <div class='paper-box'>
@@ -116,6 +117,7 @@ Implemented jumping with force-profile control and slope/stair/gap locomotion us
 </div>
 
 <br>
+-->
 
 # 🎖 Honors and Awards
 - 2024, 2025, 2026: Finland National Scholarship (Full Funding and Highest Scholarship, by Finland Ministry of Education and Culture)
