@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a visiting research student at EPFL, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am also a second-year M.S. student at Aalto University, majoring in Robotics. Previously, I received my B.Eng degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunately supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
+I am currently an Algorithm Research Intern at [Galbot](https://www.galbot.com/) and a visiting research student at EPFL CREATE Lab, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am pursuing my M.S. degree in Robotics at Aalto University. Previously, I received my B.Eng. degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunate to be supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
 
 My research interests include computer vision, robot perception, robot manipulation, and biomedical signal processing. Currently, my work focuses on **robot tactile sensing** and **RL-based manipulation**.
 
