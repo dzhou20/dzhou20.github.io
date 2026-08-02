@@ -46,7 +46,7 @@ Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng<br>
 </div>
 
 <div class='paper-box publication-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image paper-box-image--portrait'>
     <div>
       <div class="badge">Book Chapter</div>
       <img src='images/publications/autonomous_driving_perception.webp' alt="Autonomous Driving Perception book cover">

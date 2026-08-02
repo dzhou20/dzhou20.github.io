@@ -110,22 +110,34 @@
 }
 
 .publication-box {
-    align-items: stretch;
+    align-items: center;
 
     .paper-box-image {
         > div {
             width: 100%;
-            max-width: 320px;
-            height: 190px;
-            aspect-ratio: auto;
+            max-width: 300px;
+            aspect-ratio: 16 / 10;
+            height: auto;
+            overflow: hidden;
+            background-color: #fff;
         }
 
         img {
             display: block;
             width: 100%;
-            height: 190px;
-            background-color: #f7f7f7;
-            object-fit: contain;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+
+    .paper-box-image--portrait {
+        > div {
+            max-width: 180px;
+            aspect-ratio: 3 / 4;
+        }
+
+        img {
+            object-fit: cover;
         }
     }
 
@@ -139,9 +151,15 @@
         flex-wrap: nowrap;
 
         .paper-box-image {
-            flex: 0 0 220px;
-            min-width: 220px;
-            max-width: 220px;
+            flex: 0 0 240px;
+            min-width: 240px;
+            max-width: 240px;
+        }
+
+        .paper-box-image--portrait {
+            flex-basis: 180px;
+            min-width: 180px;
+            max-width: 180px;
         }
 
         .paper-box-text {
