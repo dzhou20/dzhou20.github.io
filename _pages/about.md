@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently an Algorithm Research Intern at [Galbot](https://www.galbot.com/) and a visiting research student at EPFL CREATE Lab, advised by [Prof. Josie Hughes](https://www.epfl.ch/labs/create/). I am pursuing my M.S. degree in Robotics at Aalto University. Previously, I received my B.Eng. degree in Automation from [Tongji University](https://www.tongji.edu.cn/) in June 2024, where I was fortunate to be supervised by [Prof. Rui Fan](https://www.ruirangerfan.com/).
 
-My research interests include computer vision, robot perception, robot manipulation, and biomedical signal processing. Currently, my work focuses on **robot tactile sensing** and **RL-based manipulation**.
+My research interests lie in **robot tactile sensing** and **dexterous manipulation**, with a broader interest in robot learning and perception for contact-rich manipulation.
 
 If you are interested in connecting with me, please feel free to reach out.
 
