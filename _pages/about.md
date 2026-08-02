@@ -32,19 +32,20 @@ Email: dacheng.zhou [at] epfl.ch
 <div class='paper-box publication-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE Sensors Journal</div>
       <img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[Quantitative assessment of muscle fatigue based on improved gramian angular difference field](https://ieeexplore.ieee.org/abstract/document/10680253)**<br>
+**Quantitative assessment of muscle fatigue based on improved gramian angular difference field**<br>
 Yu Liu, Jian Zhou, **Dacheng Zhou**, Linna Peng<br>
-*IEEE Sensors Journal*
+<span class="pub-venue">IEEE Sensors Journal, 2024</span><br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/10680253)
 
   </div>
 </div>
 
+<!--
 <div class='paper-box publication-box'>
   <div class='paper-box-image paper-box-image--portrait'>
     <div>
@@ -60,19 +61,20 @@ Sicen Guo, Yu Jiang, Jiahang Li, **Dacheng Zhou**, Shuai Su, Mohammud Junaid Boc
 
   </div>
 </div>
+-->
 
 <div class='paper-box publication-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">IEEE T-ITS</div>
       <img src='images/publications/udtiri.webp' alt="UDTIRI road pothole benchmark examples">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
-**[UDTIRI: An online open-source intelligent road inspection benchmark suite](https://ieeexplore.ieee.org/document/10534130)**<br>
+**UDTIRI: An online open-source intelligent road inspection benchmark suite**<br>
 Sicen Guo, Jiahang Li, Yi Feng, **Dacheng Zhou**, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen and Rui Fan<br>
-*IEEE Transactions on Intelligent Transportation Systems (T-ITS)*
+<span class="pub-venue">IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024</span><br>
+[[Paper]](https://ieeexplore.ieee.org/document/10534130)
 
   </div>
 </div>

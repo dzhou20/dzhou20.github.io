@@ -147,6 +147,11 @@
         justify-content: center;
     }
 
+    .pub-venue {
+        color: #1f5f9f;
+        font-weight: 600;
+    }
+
     @include breakpoint($medium) {
         flex-wrap: nowrap;
 
