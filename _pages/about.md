@@ -23,7 +23,7 @@ My research interests lie in **robot tactile sensing** and **dexterous manipulat
 
 If you are interested in connecting with me, please feel free to reach out.
 
-Email: dacheng.zhou [at] epfl.ch
+Email: zhoudacheng20 [at] outlook.com
 
 <br>
 
