@@ -131,6 +131,12 @@ Implemented jumping with force-profile control and slope/stair/gap locomotion us
 
 <br>
 
+# 📋 Academic Service
+- **Conference Reviewer:** ICRA 2026, CASE 2026
+- **Journal Reviewer:** RA-L
+
+<br>
+
 # 💬 Invited Talks
 - *2025.11* — Guest speaker at **“AI + Metaphysics Startup Closed-Door Forum”**, held by **Next by NEXT**.
 
