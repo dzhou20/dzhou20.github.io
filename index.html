@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dacheng Zhou</title>
+  <meta name="author" content="Dacheng Zhou">
+  <meta name="description" content="Dacheng Zhou - robot tactile sensing and dexterous manipulation.">
+  <link rel="icon" href="images/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+  <style>
+    :root { --link: #1772d0; --link-hover: #f09228; --text: #222; --muted: #666; --hl: #ffffd0; --bg: #fff; }
+    html, body { background: var(--bg); color: var(--text); }
+    body { margin: 0; font-family: 'Lato', Verdana, Helvetica, sans-serif; font-size: 15px; line-height: 1.5; }
+    a { color: var(--link); text-decoration: none; }
+    a:hover, a:focus { color: var(--link-hover); }
+    strong { font-weight: 700; }
+    .page { max-width: 800px; margin: 0 auto; padding: 20px 16px 40px; }
+    .intro { display: flex; gap: 2.5%; align-items: center; padding: 2.5% 0; }
+    .intro-text { flex: 1 1 63%; }
+    .intro-photo { flex: 0 0 37%; max-width: 37%; }
+    .intro-photo img { width: 100%; border-radius: 50%; display: block; aspect-ratio: 1 / 1; object-fit: cover; }
+    .name { text-align: center; font-size: 32px; margin: 0 0 12px; font-weight: 400; }
+    .links { text-align: center; margin: 16px 0 0; }
+    h2 { font-size: 22px; font-weight: 400; margin: 32px 0 8px; }
+    p { margin: 0 0 12px; }
+    .pub { display: flex; gap: 20px; padding: 16px 20px; align-items: center; }
+    .pub.hl { background: var(--hl); }
+    .pub-img { flex: 0 0 25%; }
+    .pub-img img { width: 100%; display: block; border-radius: 2px; }
+    .pub-text { flex: 1 1 auto; }
+    .papertitle { font-weight: 700; font-size: 15px; }
+    .venue { font-style: italic; }
+    .exp { display: flex; gap: 20px; padding: 12px 20px; align-items: center; }
+    .exp-logo { flex: 0 0 25%; display: flex; justify-content: center; align-items: center; height: 64px; }
+    .exp-logo img { max-width: 140px; max-height: 56px; width: auto; height: auto; display: block; }
+    .exp-text { flex: 1 1 auto; }
+    .todo { background: #ffe0e0; color: #b00020; padding: 0 3px; border-radius: 2px; }
+    ul { margin: 0; padding-left: 20px; }
+    li { margin-bottom: 4px; }
+    .footer { text-align: right; font-size: 12px; color: var(--muted); margin-top: 40px; }
+    .footer a { color: var(--muted); text-decoration: underline; }
+    @media (max-width: 640px) {
+      .intro { flex-direction: column-reverse; }
+      .intro-photo { max-width: 55%; }
+      .pub { flex-direction: column; align-items: stretch; padding: 14px 0; }
+      .pub.hl { padding: 14px 12px; }
+      .pub-img { flex-basis: auto; }
+      .exp { padding: 12px 0; gap: 14px; }
+      .exp-logo { flex-basis: 90px; height: 48px; }
+      .exp-logo img { max-width: 90px; max-height: 44px; }
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+
+  <section class="intro">
+    <div class="intro-text">
+      <p class="name">Dacheng Zhou</p>
+      <p>I am currently a Research Intern at <a href="https://www.galbot.com/">Galbot</a> and a Research Student at EPFL CREATE Lab, advised by <a href="https://www.epfl.ch/labs/create/">Prof. Josie Hughes</a>. I am pursuing my M.S. degree in Robotics at Aalto University.</p>
+      <p>Previously, I received my B.Eng. degree in Automation from <a href="https://www.tongji.edu.cn/">Tongji University</a> in June 2024, where I was fortunate to be supervised by <a href="https://www.ruirangerfan.com/">Prof. Rui Fan</a>.</p>
+      <p>If you are interested in connecting with me, please feel free to reach out.</p>
+      <p class="links">
+        <a href="mailto:zhoudacheng20@outlook.com">Email</a> &nbsp;/&nbsp;
+        <a href="https://scholar.google.com/citations?user=0856rNUAAAAJ&amp;hl=en">Scholar</a> &nbsp;/&nbsp;
+        <a href="https://github.com/dzhou20">GitHub</a> &nbsp;/&nbsp;
+        <a href="https://www.linkedin.com/in/dacheng-zhou-50744b2a3">LinkedIn</a> &nbsp;/&nbsp;
+        <a href="https://www.researchgate.net/profile/Dacheng-Zhou">ResearchGate</a> &nbsp;/&nbsp;
+        <a href="https://orcid.org/0000-0002-4993-2293">ORCID</a> &nbsp;/&nbsp;
+        <a href="images/wechat_qr.jpg">WeChat</a> &nbsp;/&nbsp;
+        <a href="images/xiaohongshu_qr.jpg">Xiaohongshu</a>
+      </p>
+    </div>
+    <div class="intro-photo">
+      <a href="images/avatar_switzerland.jpg"><img src="images/avatar_switzerland.jpg" alt="Photo of Dacheng Zhou"></a>
+    </div>
+  </section>
+
+  <h2>Research</h2>
+  <p>My research interests lie in <strong>robot tactile sensing</strong> and <strong>dexterous manipulation</strong>, especially learning contact-rich manipulation skills from tactile feedback, sEMG signals, and physics-based simulation.</p>
+
+  <div class="pub hl">
+    <div class="pub-img"><img src="images/dexwac.webp" alt="DexWAC overview: unified world-actor-critic pretraining and policy improvement"></div>
+    <div class="pub-text">
+      <a href="https://arxiv.org/abs/2611.32654"><span class="papertitle">DexWAC: A Unified World–Actor–Critic Model for Dexterous Robot Manipulation</span></a><br>
+      Hongjia Liu<sup>*</sup>, <strong>Dacheng Zhou</strong><sup>*</sup>, Minghao Fu, Chuanjun Guo, Tianze Wang, Qingtao Liu, He Wang, Li Yi<br>
+      <span class="venue">arXiv preprint</span>, 2026<br>
+      <a href="https://arxiv.org/abs/2611.32654">arXiv</a>
+      <p style="margin-top:8px">A single pretrained model jointly learns an actor, an action-conditioned world model, and a critic; the world model and critic are then used to improve the actor by imagined-rollout PPO or best-of-N selection.</p>
+      <span style="font-size:13px;color:var(--muted)"><sup>*</sup>Equal contribution</span>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-img"><img src="images/sensor_journal.png" alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field"></div>
+    <div class="pub-text">
+      <a href="https://ieeexplore.ieee.org/abstract/document/10680253"><span class="papertitle">Quantitative Assessment of Muscle Fatigue Based on Improved Gramian Angular Difference Field</span></a><br>
+      Yu Liu, Jian Zhou, <strong>Dacheng Zhou</strong>, Linna Peng<br>
+      <span class="venue">IEEE Sensors Journal</span>, 2024<br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10680253">paper</a>
+    </div>
+  </div>
+
+  <div class="pub">
+    <div class="pub-img"><img src="images/udtiri.webp" alt="UDTIRI road pothole benchmark examples"></div>
+    <div class="pub-text">
+      <a href="https://ieeexplore.ieee.org/document/10534130"><span class="papertitle">UDTIRI: An Online Open-Source Intelligent Road Inspection Benchmark Suite</span></a><br>
+      Sicen Guo, Jiahang Li, Yi Feng, <strong>Dacheng Zhou</strong>, Denghuang Zhang, Chen Chen, Shuai Su, Xingyi Zhu, Qijun Chen, Rui Fan<br>
+      <span class="venue">IEEE Transactions on Intelligent Transportation Systems (T-ITS)</span>, 2024<br>
+      <a href="https://ieeexplore.ieee.org/document/10534130">paper</a>
+    </div>
+  </div>
+
+  <h2>Experience</h2>
+
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.galbot.com/"><img src="images/logo_galbot.svg" alt="Galbot logo"></a></div>
+    <div class="exp-text">
+      <a href="https://www.galbot.com/"><span class="papertitle">Galbot</span></a><br>
+      <em>Research Intern</em><br>
+      Advisor: <a href="https://ericyi.github.io/">Prof. Li Yi</a>, Dr. Qingtao Liu<br>
+      2026.07 – Present
+    </div>
+  </div>
+
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.epfl.ch/labs/create/"><img src="images/logo_epfl.svg" alt="EPFL logo"></a></div>
+    <div class="exp-text">
+      <a href="https://www.epfl.ch/labs/create/"><span class="papertitle">EPFL, CREATE Lab</span></a><br>
+      <em>Research Student</em><br>
+      Advisor: <a href="https://www.epfl.ch/labs/create/">Prof. Josie Hughes</a><br>
+      2025.09 – Present
+    </div>
+  </div>
+
+<!--
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.aalto.fi/en"><img src="images/logo_aalto.svg" alt="Aalto University logo"></a></div>
+    <div class="exp-text">
+      <a href="https://www.aalto.fi/en"><span class="papertitle">Aalto University</span></a><br>
+      <em>M.S. in Robotics</em><br>
+      <span class="todo">2024.09</span> – Present
+    </div>
+  </div>
+
+  <div class="exp">
+    <div class="exp-logo"><a href="https://www.tongji.edu.cn/"><img src="images/logo_tongji.png" alt="Tongji University logo"></a></div>
+    <div class="exp-text">
+      <a href="https://www.tongji.edu.cn/"><span class="papertitle">Tongji University</span></a><br>
+      <em>B.Eng. in Automation</em>, advised by <a href="https://www.ruirangerfan.com/">Prof. Rui Fan</a><br>
+      <span class="todo">2020.09</span> – 2024.06
+    </div>
+  </div>
+-->
+
+  <h2>Honors and Awards</h2>
+  <ul>
+    <li>2024, 2025, 2026: Finland National Scholarship (Full Funding and Highest Scholarship, by Finland Ministry of Education and Culture)</li>
+    <li>2021, 2022, 2023: Outstanding Undergraduate Scholarship (3 consecutive years)</li>
+    <li>2022: Provincial Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM)</li>
+    <li>2018, 2019: Provincial Prize, Chinese Chemistry Olympiad (CChO)</li>
+  </ul>
+
+  <h2>Academic Service</h2>
+  <ul>
+    <li><strong>Conference Reviewer:</strong> ICRA, IROS, CASE</li>
+    <li><strong>Journal Reviewer:</strong> RA-L</li>
+  </ul>
+
+  <h2>Invited Talks</h2>
+  <ul>
+    <li><em>2025.11</em> — Guest speaker at <strong>“AI + Metaphysics Startup Closed-Door Forum”</strong>, held by <strong>Next by NEXT</strong>.</li>
+  </ul>
+
+  <h2>Miscellaneous</h2>
+  <p>My favorite game is <strong>GeoGuessr</strong>. My favorite singer is <strong>Cheer Chen</strong>. I enjoy a wide range of sports, including hiking, soccer, rock climbing, and squash.</p>
+
+  <p class="footer">Website design adapted from <a href="https://github.com/jonbarron/jonbarron.github.io">Jon Barron</a>.</p>
+</div>
+</body>
+</html>
