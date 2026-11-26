@@ -32,6 +32,22 @@ Email: zhoudacheng20 [at] outlook.com
 <div class='paper-box publication-box'>
   <div class='paper-box-image'>
     <div>
+      <img src='images/publications/dexwac.webp' alt="DexWAC overview: unified world-actor-critic pretraining and policy improvement">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+**DexWAC: A Unified World–Actor–Critic Model for Dexterous Robot Manipulation**<br>
+Hongjia Liu, **Dacheng Zhou**, Minghao Fu, Chuanjun Guo, Tianze Wang, Qingtao Liu, He Wang, Li Yi<br>
+<span class="pub-venue">arXiv preprint, 2026</span><br>
+[[Paper]](https://arxiv.org/abs/2611.32654)
+
+  </div>
+</div>
+
+<div class='paper-box publication-box'>
+  <div class='paper-box-image'>
+    <div>
       <img src='images/sensor_journal.png' alt="Quantitative assessment of muscle fatigue based on improved gramian angular difference field">
     </div>
   </div>
