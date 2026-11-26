@@ -38,7 +38,7 @@ Email: zhoudacheng20 [at] outlook.com
   <div class='paper-box-text' markdown="1">
 
 **DexWAC: A Unified World–Actor–Critic Model for Dexterous Robot Manipulation**<br>
-Hongjia Liu, **Dacheng Zhou**, Minghao Fu, Chuanjun Guo, Tianze Wang, Qingtao Liu, He Wang, Li Yi<br>
+Hongjia Liu<sup>*</sup>, **Dacheng Zhou**<sup>*</sup>, Minghao Fu, Chuanjun Guo, Tianze Wang, Qingtao Liu, He Wang, Li Yi (<sup>*</sup>equal contribution)<br>
 <span class="pub-venue">arXiv preprint, 2026</span><br>
 [[Paper]](https://arxiv.org/abs/2611.32654)
 
